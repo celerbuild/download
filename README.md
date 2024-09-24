@@ -26,12 +26,12 @@
 
 ### macOS AMD64
 
-| Version | Filename | SHA256 Checksum |
-|---------|----------|-----------------|
-| 0.8.8 | [celerbuild-0.8.8-mac-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-mac-amd64.tar.gz) | `29750bb4f0df6bf250ba076e1e42bb9dbe3a48b4bcd7a5ee915e02adc83c0e3d` |
+| Version | Filename                                                                                                                                        | SHA256 Checksum |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 0.8.8 | [celerbuild-0.8.8-darwin-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-darwin-amd64.tar.gz) | `d713aa26062e5fa7887f4e7ad30fa1898fd13d22f07e60a714c25051cc1a6898` |
 
 ### macOS ARM64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
-| 0.8.8 | [celerbuild-0.8.8-mac-arm64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-mac-arm64.tar.gz) | `67b691de68ff69b2c07968d218bfa43b969e6a8080a094030c956502b1c27e9f` |
+| 0.8.8 | [celerbuild-0.8.8-darwin-arm64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-darwin-arm64.tar.gz) | `ddbc5b2197527dfac34a5aba23caac89382f959a46444678ab8d471340bf1742` |
