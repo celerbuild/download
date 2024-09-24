@@ -10,13 +10,13 @@
 
 ## Linux
 
-### Linux AMD64 {#linux-amd64}
+### Linux AMD64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
 | 0.8.8 | [celerbuild-0.8.8-linux-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-linux-amd64.tar.gz) | `492d03c80d9e2a1299224c6050167613893d9fd76a7012b778d8ec425f47e458` |
 
-### Linux ARM64 {#linux-arm64}
+### Linux ARM64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
@@ -24,13 +24,13 @@
 
 ## macOS
 
-### macOS AMD64 {#macos-amd64}
+### macOS AMD64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
 | 0.8.8 | [celerbuild-0.8.8-mac-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-mac-amd64.tar.gz) | `29750bb4f0df6bf250ba076e1e42bb9dbe3a48b4bcd7a5ee915e02adc83c0e3d` |
 
-### macOS ARM64 {#macos-arm64}
+### macOS ARM64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
