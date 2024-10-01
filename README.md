@@ -14,13 +14,13 @@
 
 | Version | Filename                                                                                                                                        | SHA256 Checksum |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| 0.8.8 | [celerbuild-0.8.8-darwin-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-darwin-amd64.tar.gz) | `d713aa26062e5fa7887f4e7ad30fa1898fd13d22f07e60a714c25051cc1a6898` |
+| 0.8.8 | [celerbuild-0.8.8-darwin-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-darwin-amd64.tar.gz) | `7b400c482f834c381db0b9c47188baee96ecfe5793e15edc4ffc2860f84d30f9` |
 
 ### macOS ARM64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
-| 0.8.8 | [celerbuild-0.8.8-darwin-arm64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-darwin-arm64.tar.gz) | `ddbc5b2197527dfac34a5aba23caac89382f959a46444678ab8d471340bf1742` |
+| 0.8.8 | [celerbuild-0.8.8-darwin-arm64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-darwin-arm64.tar.gz) | `459f36f80dba7c121dac5784ebd220edf7c0a3b6db336742ded42ebc29637474` |
 
 ## Linux
 
@@ -28,11 +28,11 @@
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
-| 0.8.8 | [celerbuild-0.8.8-linux-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-linux-amd64.tar.gz) | `492d03c80d9e2a1299224c6050167613893d9fd76a7012b778d8ec425f47e458` |
+| 0.8.8 | [celerbuild-0.8.8-linux-amd64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-linux-amd64.tar.gz) | `b622b9196d0bd5d7b33c8ca49dd70a332f0583a15608a68456991058cc30a5cb` |
 
 ### Linux ARM64
 
 | Version | Filename | SHA256 Checksum |
 |---------|----------|-----------------|
-| 0.8.8 | [celerbuild-0.8.8-linux-arm64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-linux-arm64.tar.gz) | `0cc15f798bd4d1a63a1388ae024bd32e0d95def4fa216813f48e9ba9a71b418f` |
+| 0.8.8 | [celerbuild-0.8.8-linux-arm64.tar.gz](https://raw.githubusercontent.com/celerbuild/download/refs/heads/main/celerbuild-0.8.8-linux-arm64.tar.gz) | `da67f5a877f3024db6dbc1be4df552c9accab98ecdc0f30fb3462132dbb4dda6` |
 
