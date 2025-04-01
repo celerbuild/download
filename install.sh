@@ -151,7 +151,7 @@ verify_installation() {
 
     echo -e "\n=== Quick Start ==="
     echo "1. celerbuild --help    # Show help information"
-    echo "2. celerbuild          # Run celerbuild"
+    echo "2. celerbuild           # Run celerbuild"
     echo "3. celerbuild --version # Check version"
 
     echo -e "\nFor more information, visit: https://celerbuild.com/docs/"
