@@ -154,6 +154,14 @@ verify_installation() {
     echo "2. celerbuild           # Run celerbuild"
     echo "3. celerbuild --version # Check version"
 
+    echo -e "\n=== Dependencies Required ==="
+    echo "Please ensure you have the following dependencies installed:"
+    echo "1. Git (2.20.0 or higher)"
+    echo "2. MariaDB"
+    echo "3. SSH key for deployment"
+    echo -e "\nFor detailed dependency requirements and setup instructions, visit:"
+    echo "https://celerbuild.com/docs/prerequisites/dependencies"
+
     echo -e "\nFor more information, visit: https://celerbuild.com/docs/"
 }
 
