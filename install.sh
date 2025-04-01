@@ -139,30 +139,37 @@ install_celerbuild() {
 
 # Verify installation and display usage information
 verify_installation() {
-    echo -e "\nVerifying installation..."
-
     if ! command -v celerbuild >/dev/null 2>&1; then
         echo "Error: celerbuild installation failed"
         exit 1
     fi
 
-    echo -e "\n=== Version Information ==="
-    celerbuild --version
+    cat << EOF
 
-    echo -e "\n=== Quick Start ==="
-    echo "1. celerbuild --help    # Show help information"
-    echo "2. celerbuild           # Run celerbuild"
-    echo "3. celerbuild --version # Check version"
+Verifying installation...
 
-    echo -e "\n=== Dependencies Required ==="
-    echo "Please ensure you have the following dependencies installed:"
-    echo "1. Git (2.20.0 or higher)"
-    echo "2. MariaDB"
-    echo "3. SSH key for deployment"
-    echo -e "\nFor detailed dependency requirements and setup instructions, visit:"
-    echo "https://celerbuild.com/docs/prerequisites/dependencies"
+=== Version Information ===
+$(celerbuild --version)
 
-    echo -e "\nFor more information, visit: https://celerbuild.com/docs/"
+=== Quick Start ===
+1. celerbuild --help    # Show help information
+2. celerbuild           # Run CelerBuild
+3. celerbuild --version # Check version
+
+=== Required Dependencies ===
+Please ensure you have the following dependency installed:
+- MariaDB
+
+=== Deployment Prerequisites ===
+For deployment, you will also need:
+- Git (2.20.0 or higher)
+- SSH key configured
+
+For detailed dependency requirements and setup instructions, visit:
+https://celerbuild.com/docs/prerequisites/dependencies
+
+For more information, visit: https://celerbuild.com/docs/
+EOF
 }
 
 # Main program execution
